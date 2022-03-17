@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/krypt-swap/static/css/main.f0b4487f.css",
+    "main.js": "/krypt-swap/static/js/main.3bf35050.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/krypt-swap/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/eth-coin.png": "/krypt-swap/static/media/eth-coin.566ff1226e67a14ce33d.png",
+    "index.html": "/krypt-swap/index.html",
+    "main.f0b4487f.css.map": "/krypt-swap/static/css/main.f0b4487f.css.map",
+    "main.3bf35050.js.map": "/krypt-swap/static/js/main.3bf35050.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/krypt-swap/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0b4487f.css",
+    "static/js/main.3bf35050.js"
+  ]
+}
